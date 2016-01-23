@@ -22,7 +22,6 @@
         "LSAD": "M1",
         "ALAND": 15433281588,
         "AWATER": 135402342,
-        "Length": null,
         "len": 10,
         "state": "CA"
       },
@@ -1770,7 +1769,6 @@
         "LSAD": "M2",
         "ALAND": 7639716083,
         "AWATER": 32276053,
-        "Length": null,
         "len": 13,
         "state": "CA"
       },
@@ -4423,7 +4421,6 @@
         "LSAD": "M2",
         "ALAND": 2480638586,
         "AWATER": 41513176,
-        "Length": null,
         "len": 24,
         "state": "CA"
       },
@@ -7126,7 +7123,6 @@
         "LSAD": "M1",
         "ALAND": 13195198738,
         "AWATER": 548566581,
-        "Length": null,
         "len": 39,
         "state": "CA"
       },
@@ -10484,7 +10480,6 @@
         "LSAD": "M1",
         "ALAND": 6417135149,
         "AWATER": 2456510191,
-        "Length": null,
         "len": 33,
         "state": "CA"
       },
@@ -12590,7 +12585,6 @@
         "LSAD": "M1",
         "ALAND": 9778188425,
         "AWATER": 186530226,
-        "Length": null,
         "len": 11,
         "state": "CA"
       },
@@ -15828,7 +15822,6 @@
         "LSAD": "M1",
         "ALAND": 8543720566,
         "AWATER": 820409436,
-        "Length": null,
         "len": 45,
         "state": "CA"
       },
@@ -17986,7 +17979,6 @@
         "LSAD": "M2",
         "ALAND": 5752116633,
         "AWATER": 138684399,
-        "Length": null,
         "len": 10,
         "state": "CA"
       },
@@ -20394,7 +20386,6 @@
         "LSAD": "M1",
         "ALAND": 7083926262,
         "AWATER": 2729818040,
-        "Length": null,
         "len": 29,
         "state": "CA"
       },
@@ -23265,7 +23256,6 @@
         "LSAD": "M1",
         "ALAND": 3598582246,
         "AWATER": 5468555,
-        "Length": null,
         "len": 20,
         "state": "CA"
       },
@@ -23448,7 +23438,6 @@
         "LSAD": "M2",
         "ALAND": 47091007512,
         "AWATER": 43208096,
-        "Length": null,
         "len": 11,
         "state": "NV"
       },
@@ -23701,7 +23690,6 @@
         "LSAD": "M1",
         "ALAND": 8496777466,
         "AWATER": 1270701096,
-        "Length": null,
         "len": 11,
         "state": "CA"
       },
@@ -26084,7 +26072,6 @@
         "LSAD": "M1",
         "ALAND": 374669596,
         "AWATER": 32587486,
-        "Length": null,
         "len": 15,
         "state": "NV"
       },
@@ -26247,7 +26234,6 @@
         "LSAD": "M1",
         "ALAND": 70612045943,
         "AWATER": 374865177,
-        "Length": null,
         "len": 36,
         "state": "CA"
       },
@@ -28505,7 +28491,6 @@
         "LSAD": "M1",
         "ALAND": 6938374677,
         "AWATER": 40399480,
-        "Length": null,
         "len": 34,
         "state": "CA"
       },
@@ -30813,7 +30798,6 @@
         "LSAD": "M2",
         "ALAND": 24969524983,
         "AWATER": 44196981,
-        "Length": null,
         "len": 14,
         "state": "NV"
       },
@@ -31066,7 +31050,6 @@
         "LSAD": "M1",
         "ALAND": 10895213672,
         "AWATER": 826296339,
-        "Length": null,
         "len": 22,
         "state": "CA"
       },
@@ -31494,7 +31477,6 @@
         "LSAD": "M1",
         "ALAND": 4081401375,
         "AWATER": 497545782,
-        "Length": null,
         "len": 14,
         "state": "CA"
       },
@@ -32132,7 +32114,6 @@
         "LSAD": "M1",
         "ALAND": 1938262446,
         "AWATER": 104154637,
-        "Length": null,
         "len": 8,
         "state": "CA"
       },
@@ -32590,7 +32571,6 @@
         "LSAD": "M2",
         "ALAND": 5182918074,
         "AWATER": 59602521,
-        "Length": null,
         "len": 11,
         "state": "NV"
       },
@@ -33098,7 +33078,6 @@
         "LSAD": "M2",
         "ALAND": 2606517997,
         "AWATER": 578525673,
-        "Length": null,
         "len": 17,
         "state": "CA"
       },
@@ -33901,7 +33880,6 @@
         "LSAD": "M1",
         "ALAND": 5535058234,
         "AWATER": 41957135,
-        "Length": null,
         "len": 10,
         "state": "CA"
       },
@@ -35134,7 +35112,6 @@
         "LSAD": "M2",
         "ALAND": 9241050191,
         "AWATER": 1254256517,
-        "Length": null,
         "len": 25,
         "state": "CA"
       },
@@ -35852,7 +35829,6 @@
         "LSAD": "M1",
         "ALAND": 3870792979,
         "AWATER": 51176484,
-        "Length": null,
         "len": 11,
         "state": "CA"
       },
@@ -36250,7 +36226,6 @@
         "LSAD": "M1",
         "ALAND": 4238422629,
         "AWATER": 105325735,
-        "Length": null,
         "len": 9,
         "state": "CA"
       },
@@ -36958,7 +36933,6 @@
         "LSAD": "M1",
         "ALAND": 12494776168,
         "AWATER": 37391591,
-        "Length": null,
         "len": 23,
         "state": "CA"
       },
@@ -37696,7 +37670,6 @@
         "LSAD": "M2",
         "ALAND": 55284578858,
         "AWATER": 96836079,
-        "Length": null,
         "len": 8,
         "state": "NV"
       },
@@ -38439,7 +38412,6 @@
         "LSAD": "M1",
         "ALAND": 17004020592,
         "AWATER": 623063737,
-        "Length": null,
         "len": 8,
         "state": "NV"
       },
@@ -38917,7 +38889,6 @@
         "LSAD": "M1",
         "ALAND": 21061724395,
         "AWATER": 79488702,
-        "Length": null,
         "len": 15,
         "state": "CA"
       },
@@ -39285,7 +39256,6 @@
         "LSAD": "M1",
         "ALAND": 10817387422,
         "AWATER": 790204642,
-        "Length": null,
         "len": 13,
         "state": "CA"
       },
@@ -40333,7 +40303,6 @@
         "LSAD": "M2",
         "ALAND": 12770262134,
         "AWATER": 242405724,
-        "Length": null,
         "len": 10,
         "state": "NV"
       },
@@ -41541,7 +41510,6 @@
         "LSAD": "M2",
         "ALAND": 3254241507,
         "AWATER": 188959508,
-        "Length": null,
         "len": 13,
         "state": "CA"
       },
@@ -42689,7 +42657,6 @@
         "LSAD": "M1",
         "ALAND": 20437567839,
         "AWATER": 440056830,
-        "Length": null,
         "len": 32,
         "state": "NV"
       },
@@ -43937,7 +43904,6 @@
         "LSAD": "M2",
         "ALAND": 11761622251,
         "AWATER": 463440332,
-        "Length": null,
         "len": 14,
         "state": "CA"
       },
@@ -44415,7 +44381,6 @@
         "LSAD": "M1",
         "ALAND": 4773381212,
         "AWATER": 945947858,
-        "Length": null,
         "len": 32,
         "state": "CA"
       },
@@ -44953,7 +44918,6 @@
         "LSAD": "M2",
         "ALAND": 1838162323,
         "AWATER": 72317554,
-        "Length": null,
         "len": 24,
         "state": "NV"
       },
@@ -45186,7 +45150,6 @@
         "LSAD": "M1",
         "ALAND": 12558109704,
         "AWATER": 2202572184,
-        "Length": null,
         "len": 34,
         "state": "CA"
       },
@@ -46344,7 +46307,6 @@
         "LSAD": "M2",
         "ALAND": 9081415546,
         "AWATER": 962953371,
-        "Length": null,
         "len": 9,
         "state": "CA"
       },
@@ -47157,7 +47119,6 @@
         "LSAD": "M1",
         "ALAND": 1152967527,
         "AWATER": 419570859,
-        "Length": null,
         "len": 26,
         "state": "CA"
       },
@@ -47565,7 +47526,6 @@
         "LSAD": "M1",
         "ALAND": 3603647052,
         "AWATER": 91127746,
-        "Length": null,
         "len": 17,
         "state": "CA"
       },
@@ -48023,7 +47983,6 @@
         "LSAD": "M1",
         "ALAND": 5011540864,
         "AWATER": 112770970,
-        "Length": null,
         "len": 10,
         "state": "CA"
       },
@@ -48401,7 +48360,6 @@
         "LSAD": "M1",
         "ALAND": 2128379066,
         "AWATER": 218648073,
-        "Length": null,
         "len": 21,
         "state": "CA"
       },
@@ -48819,7 +48777,6 @@
         "LSAD": "M1",
         "ALAND": 3197220476,
         "AWATER": 46732298,
-        "Length": null,
         "len": 13,
         "state": "CA"
       },
